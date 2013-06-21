@@ -7,7 +7,7 @@ This wordpress plugin enables you to use
 
 as well as
 
-`/* multiline comments
+`/* multiline comments  
     like this one */?`
     
 in your wordpress pages' content sections.
