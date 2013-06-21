@@ -1,0 +1,11 @@
+.column-post {
+	width: 70px;
+}
+
+#the-list tr:hover {
+	background-color: #eee;
+}
+
+#icon-content-comments {
+	background: transparent url( '../assets/icon32.png' ) no-repeat;
+}
